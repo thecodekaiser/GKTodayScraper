@@ -7,6 +7,7 @@
         www.gktoday.in/gk/current-affairs-questions-answers/page/... (whatever page has March,2016 links)
 '''
 # Importing required libraries
+#!/usr/bin/env python
 import urllib, re
 import bs4
 from random import shuffle
